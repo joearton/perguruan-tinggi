@@ -2,7 +2,7 @@
 Data perguruan tinggi dan program studi di Indonesia dalam format csv atau excel.
 
 # Update (Bagi Pengelola Sister PT)
-Untuk mendapatkan data perguruan tinggi dan program studi lebih valid, gunakan Sister WS Client di bawah ini:
+Untuk mendapatkan data perguruan tinggi dan program studi lebih valid, gunakan Sister WS Client:  
 https://github.com/joearton/sister
 
 # Disclaimer
